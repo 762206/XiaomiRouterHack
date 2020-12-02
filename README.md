@@ -1,6 +1,8 @@
 ### Xiaomi Router Hack
 Not a real pro hack, just to unblock wifi lock restrictions. Might also work with other routers, depends on their lock logics.
 
+Linux only btw
+
 ### Usage 
 
 Setup first using ```setup.sh```
